@@ -3,6 +3,7 @@ Cordova Plugin BaiduOcr
 ================================
 
 百度云OCR的cordova插件,目前支持车牌识别  去掉了x86支持
+
 Installation
 1、Run
 

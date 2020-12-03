@@ -7,9 +7,6 @@ Cordova Plugin BaiduOcr
 Installation
 1、Run
 
-ionic cordova plugin add cordova-adam-baidu-ocr
-Or
-
 cordova plugin add https://github.com/smxs1994/ty-cordova-baidu-ocr.git
 
 2、Baidu云申请并下载aip.license授权文件。注意：id应匹配。
